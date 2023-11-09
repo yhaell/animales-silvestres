@@ -1,0 +1,42 @@
+.container-clock{
+	text-align: center;
+}
+
+.caja{
+	margin-left: 350px;
+	width: 570px;
+	height: 47px;
+	background: #F1F5DD;
+	transition: all 0.9s;
+	border-radius: 9px;
+}
+
+.caja:hover{
+	transform: scale(1.13);
+}
+
+.caja2{
+	margin-left: 550px;
+	width: 570px;
+	height: 47px;
+	background: #D6DDAC;
+	transition: all 0.9s;
+	border-radius: 9px;
+}
+
+.caja2:hover{
+	transform: scale(1.13);
+}
+
+.caja3{
+	margin-left: 230px;
+	width: 570px;
+	height: 47px;
+	background: #D6DDAC;
+	transition: all 0.9s;
+	border-radius: 9px;
+}
+
+.caja3:hover{
+	transform: scale(1.13);
+}
